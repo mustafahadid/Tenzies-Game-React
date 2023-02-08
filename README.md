@@ -4,7 +4,7 @@ Tenzi is the world’s fastest game! player gets ten dice. Then player rolls and
 
 ## GIf
 
-![screenshot](./assets/tenzi.gif)
+![](./assets/tenzi.gif)
 
 ## setup
 
